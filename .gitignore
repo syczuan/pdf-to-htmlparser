@@ -58,6 +58,8 @@ typings/
 .env
 
 
-pdf/*
+!/pdf
+/pdf/*
 
-static/pdf/*
+!/static
+/static/pdf/*
